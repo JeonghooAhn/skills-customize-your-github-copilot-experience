@@ -72,6 +72,13 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-and-debugging-python-apis",
+      "title": "Testing and Debugging Python APIs",
+      "description": "Write automated tests with pytest and debug a FastAPI application.",
+      "path": "assignments/testing-and-debugging-python-apis",
+      "dueDate": "2026-11-16"
     }
   ]
 }
